@@ -15,6 +15,8 @@ FORMAÇÃO ACADÊMICA
 Escola Estatual Amaury Galliera- segundo ano do ensino médio.
 (Não concluido)
 
+https://github.com/Bruna1800/Bruna1800
+
 PROJETOS 
 
 Projeto Pong
